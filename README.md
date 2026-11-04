@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="500" height="281" alt="zankyou no terror" src="https://github.com/user-attachments/assets/cfc42ccc-f84b-4850-950d-2c6312a7d0c1" />
 
 <!--
 **Ana-Fromm3/Ana-Fromm3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
