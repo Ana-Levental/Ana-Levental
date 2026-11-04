@@ -1,4 +1,4 @@
-## Welcome to my little corner of Github! ♡ 
+## Welcome to my little corner of GitHub! ♡ 
 <img width="500" height="281" alt="zankyou no terror" src="https://github.com/user-attachments/assets/cfc42ccc-f84b-4850-950d-2c6312a7d0c1" />
 
 <!--
@@ -22,7 +22,16 @@ Computer Science student at Estácio (4th semester).
 ♡ Interested in Cybersecurity  
 ♡ Java enthusiast  
 ♡ Exploring software development  
-♡ Always curious, always learning.
+
+
+![Static Badge](https://img.shields.io/badge/Cybersecurity-FF69B4) ![Static Badge](https://img.shields.io/badge/Java-ED8B00) ![Static Badge](https://img.shields.io/badge/Python-3776AB) ![Static Badge](https://img.shields.io/badge/HTML-E34F26) ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E) ![Static Badge](https://img.shields.io/badge/CSS-777BB4) 
+
+
+
+
+
+
+
 
 ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
