@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my little corner of Github! ♡ 
 <img width="500" height="281" alt="zankyou no terror" src="https://github.com/user-attachments/assets/cfc42ccc-f84b-4850-950d-2c6312a7d0c1" />
 
 <!--
@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+୨୧ Hi, I'm Ana!
+
+Computer Science student at Estácio (4th semester).
+
+♡ Interested in Cybersecurity  
+♡ Java enthusiast  
+♡ Exploring software development  
+♡ Always curious, always learning.
+
 <img width="500" height="356" alt="download" src="https://github.com/user-attachments/assets/88386ab1-ada9-49f3-800c-e69a764602d2" />
