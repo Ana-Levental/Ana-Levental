@@ -23,5 +23,6 @@ Computer Science student at Estácio (4th semester).
 ♡ Java enthusiast  
 ♡ Exploring software development  
 ♡ Always curious, always learning.
+૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 <img width="500" height="356" alt="download" src="https://github.com/user-attachments/assets/88386ab1-ada9-49f3-800c-e69a764602d2" />
