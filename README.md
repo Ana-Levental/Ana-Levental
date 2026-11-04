@@ -1,4 +1,3 @@
-<img width="500" height="356" alt="download" src="https://github.com/user-attachments/assets/88386ab1-ada9-49f3-800c-e69a764602d2" />
 ## Hi there 👋
 <img width="500" height="281" alt="zankyou no terror" src="https://github.com/user-attachments/assets/cfc42ccc-f84b-4850-950d-2c6312a7d0c1" />
 
@@ -16,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Uploading download.gif…]()
+<img width="500" height="356" alt="download" src="https://github.com/user-attachments/assets/88386ab1-ada9-49f3-800c-e69a764602d2" />
